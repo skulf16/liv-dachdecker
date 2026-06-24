@@ -23,3 +23,16 @@ yarn-error.log*
 
 # Editor / misc
 *.tsbuildinfo
+
+# Legacy static site & source masters — kept locally, not tracked in the repo.
+# The canonical site is the Next.js app in web/.
+/.claude/
+/index.html
+/impressum.html
+/datenschutz.html
+/css/
+/js/
+/favicon.svg
+/assets/
+/istockphoto-*.jpg
+/liv_dachdecker_logo1.png
